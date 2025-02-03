@@ -60,7 +60,7 @@ errozero/
 ## Executando o Sistema
 
 1. Inicie seu servidor web e MySQL/MariaDB
-2. Abra seu navegador e acesse: `http://localhost/errozero`
+2. Abra seu navegador e acesse: `(http://localhost/pap/dist/)`
 3. Faça login com uma das credenciais acima
 
 ## Funcionalidades
