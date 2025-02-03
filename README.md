@@ -51,11 +51,11 @@ errozero/
 
 ### Administrador
 - Email: admin@oficina.pt
-- Senha: admin123
+- Senha: admin
 
 ### Aluno
 - Email: aluno@oficina.pt
-- Senha: aluno123
+- Senha: aluno
 
 ## Executando o Sistema
 
